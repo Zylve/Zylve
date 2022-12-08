@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hey 👋
+Just a Canadian teen who likes to program.
+## Technologies
+<div>
+<img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **Zylve/Zylve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
