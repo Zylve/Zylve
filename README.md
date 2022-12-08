@@ -2,7 +2,12 @@
 Just a Canadian teen who likes to program.
 ## Technologies
 <div>
-<img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src=https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
+    <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg title="C#" alt="C#" width="40" height="40"/>&nbsp;
+    <img src=https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg title="C#" alt="C#" width="40" height="40"/>&nbsp;
+
 </div>
 <!--
 **Zylve/Zylve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
