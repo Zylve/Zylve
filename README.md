@@ -13,7 +13,7 @@ Just a Canadian teen who likes to program.
     <img src=https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
     <img src=https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
     <img src=https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-    <img src=https://github.com/Zylve/Zylve/blob/master/icons/Arch.svg title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
+    <img src=https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
     <img src=https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
 </div>
 <!--
