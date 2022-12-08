@@ -2,6 +2,7 @@
 Just a Canadian teen who likes to program.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zylve&count_private=true&show_icons=true&theme=highcontrast&title_color=70a4fc&bg_color=0,434343,000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zylve&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Technologies
 <div>
     <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="C" alt="C" width="40" height="40"/>&nbsp;
