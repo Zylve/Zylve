@@ -1,10 +1,10 @@
 # Hey 👋
 Just a Canadian teen who likes to program.
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ## Technologies
 <div>
     <img src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg title="C" alt="C" width="40" height="40"/>&nbsp;
