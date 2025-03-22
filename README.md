@@ -1,5 +1,5 @@
 # Hey 👋
-Canadian teen // I do a lot of things
+Canadian Teen. I do a lot of things.
 
 ![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/zylve/github-stats/master/generated/overview.svg#gh-light-mode-only)
